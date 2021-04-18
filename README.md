@@ -19,7 +19,7 @@ I want to build a machine learning solution that predicts daily demand for liquo
 
 Being a liquor retailer with retail stores across various locations in Iowa, such a demand forecasting model can help me to better manage my inventory to ensure uninterrupted supply of products as well as avoid overstocking. 
 
-To measure the forecast accuracy, applicable metrics include Mean Absolute Percentage Error (MAPE), Mean Absolute Error (MAE), Mean Absolute Deviation (MAD) and [forecast bias] (https://www.relexsolutions.com/resources/measuring-forecast-accuracy/). It is important to note that forecast bias measures accuracy whereas MAD & MAPE measure forecast error. 
+To measure the forecast accuracy, applicable metrics include Mean Absolute Percentage Error (MAPE), Mean Absolute Error (MAE), Mean Absolute Deviation (MAD) and [forecast bias](https://www.relexsolutions.com/resources/measuring-forecast-accuracy/). It is important to note that forecast bias measures accuracy whereas MAD & MAPE measure forecast error. 
 
 
 Project Organization
